@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayuba => Ay</h1>
-<h3 align="center">A passionate FullStack developer from Nigeria</h3>
+<h3 align="center">A passionate FullStack developer.</h3>
 
 - 📫 How to reach me **adamujob71@gmail.com**
 
-- ⚡ Fun fact **love coding challenges.**
+- ⚡ **love coding challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
