@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayuba => Ay</h1>
-<h3 align="center">A passionate FullStack developer.</h3>
+<h3 align="center">I'm an experience software engineer</h3>
 
 - 📫 How to reach me **adamujob71@gmail.com**
 
